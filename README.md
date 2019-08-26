@@ -6,7 +6,7 @@ Directories:
 
 [BIN](https://github.com/almamelisa/Euphoniinae-Subfamily/tree/master/BIN) 
 
-[Bin-README](https://github.com/almamelisa/Euphoniinae-Subfamily/blob/master/BIN/README.md)
+[Bin-README](https://github.com/almamelisa/Euphoniinae-Subfamily/blob/master/BIN/BIN-README.md)
 
 [DATA](https://github.com/almamelisa/Euphoniinae-Subfamily/tree/master/DATA)
 
